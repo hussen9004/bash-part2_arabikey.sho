@@ -1,0 +1,1 @@
+cd ArabiKey && find . -maxdepth 6 -type f | sort
